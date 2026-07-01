@@ -16,8 +16,7 @@ action suggestions — personalized to your industry, business, and feedback ove
 [![License MIT](https://img.shields.io/badge/License-MIT-22C55E?style=flat-square)](LICENSE)
 [![Contest](https://img.shields.io/badge/Raj%20Shamani%20×%20Emergent-Builder's%20Challenge-F97316?style=flat-square)](https://emergent.sh)
 
-[Live Demo](#) · [Report Bug](https://github.com/RutujaDeshmukh29/signaliq/issues) · [Request Feature](https://github.com/RutujaDeshmukh29/signaliq/issues)
-
+[Live Demo](#) 
 </div>
 
 ---
@@ -206,8 +205,8 @@ npm --version    # should say 9.x.x or higher
 
 **Step 1 — Clone the repository**
 ```bash
-git clone https://github.com/RutujaDeshmukh29/signaliq.git
-cd signaliq
+git clone https://github.com/RutujaDeshmukh29/SignalIQ-.git
+cd signalIO
 ```
 
 **Step 2 — Install dependencies**
@@ -436,7 +435,7 @@ git add .
 git commit -m "feat: SignalIQ v1 — market intelligence dashboard"
 
 # Create a new repo on github.com first, then:
-git remote add origin https://github.com/RutujaDeshmukh29/signaliq.git
+git remote add origin https://github.com/RutujaDeshmukh29/SignalIQ-.git
 git branch -M main
 git push -u origin main
 ```
@@ -739,10 +738,10 @@ Contributions are welcome. Here's how to get started:
 
 ```bash
 # Fork the repo on GitHub, then:
-git clone https://github.com/YOUR_USERNAME/signaliq.git
+git clone https://github.com/RutujaDeshmukh29/SignalIQ-.git
 cd signaliq
 npm install
-git checkout -b feature/your-feature-name
+git checkout -b feature/RutujaDeshmukh29
 # make your changes
 git commit -m "feat: describe your feature"
 git push origin feature/your-feature-name
@@ -767,15 +766,9 @@ Built by **Rutuja Deshmukh** — AI/ML engineer, freelancer, and diploma topper 
 
 ---
 
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
-
 <div align="center">
 
-Made with 🧡 in Nashik, India · Built for the Raj Shamani × Emergent One Crore Builder's Challenge
+Made with 🧡 by Rutuja in Nashik, India · Built for the Raj Shamani × Emergent One Crore Builder's Challenge
 
 ⭐ If SignalIQ helped you, please star this repo!
 
