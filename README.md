@@ -758,7 +758,7 @@ git push origin feature/your-feature-name
 
 ## 👩‍💻 About the Builder
 
-Built by **Rutuja Deshmukh** — AI/ML engineer, freelancer, and diploma topper (91.65%) from K.K. Wagh Polytechnic, Nashik. Currently pursuing lateral entry into a BE program while freelancing on Upwork, Fiverr, and Internshala, and building AI-native products.
+Built by **Rutuja Deshmukh** — AI/ML engineer, freelancer, and diploma(89.59%) from K.K. Wagh Polytechnic, Nashik. Currently pursuing lateral entry into a BE program while building AI-native products.
 
 - 🔗 **GitHub:** [github.com/RutujaDeshmukh29](https://github.com/RutujaDeshmukh29)
 - 💼 **LinkedIn:** [linkedin.com/in/rutuja-deshmukh29](https://linkedin.com/in/rutuja-deshmukh29)
